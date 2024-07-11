@@ -60,7 +60,7 @@ global:
     allowClusterRoles: true
   ## https://docs.gitlab.com/charts/charts/globals#configure-host-settings
   hosts:
-    domain: 549583373636.realhandsonlabs.net
+    domain: 654654632496.realhandsonlabs.net
     hostSuffix:
     https: true
     externalIP:
@@ -901,7 +901,7 @@ upgradeCheck:
 certmanager-issuer:
 #   # The email address to register certificates requested from Let's Encrypt.
 #   # Required if using Let's Encrypt.
-   email: certificate@549583373636.realhandsonlabs.net
+   email: certificate@654654632496.realhandsonlabs.net
 
 ## Installation & configuration of jetstack/cert-manager
 ## See requirements.yaml for current version
